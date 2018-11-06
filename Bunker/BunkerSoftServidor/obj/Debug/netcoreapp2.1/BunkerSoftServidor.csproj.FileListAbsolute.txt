@@ -1,0 +1,14 @@
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\bin\Debug\netcoreapp2.1\BunkerSoftServidor.deps.json
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\bin\Debug\netcoreapp2.1\BunkerSoftServidor.runtimeconfig.json
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\bin\Debug\netcoreapp2.1\BunkerSoftServidor.runtimeconfig.dev.json
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\bin\Debug\netcoreapp2.1\BunkerSoftServidor.dll
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\bin\Debug\netcoreapp2.1\BunkerSoftServidor.pdb
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\obj\Debug\netcoreapp2.1\BunkerSoftServidor.csprojAssemblyReference.cache
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\obj\Debug\netcoreapp2.1\BunkerSoftServidor.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\obj\Debug\netcoreapp2.1\BunkerSoftServidor.RazorAssemblyInfo.cache
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\obj\Debug\netcoreapp2.1\BunkerSoftServidor.RazorAssemblyInfo.cs
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\obj\Debug\netcoreapp2.1\BunkerSoftServidor.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\obj\Debug\netcoreapp2.1\BunkerSoftServidor.AssemblyInfo.cs
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\obj\Debug\netcoreapp2.1\BunkerSoftServidor.RazorTargetAssemblyInfo.cache
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\obj\Debug\netcoreapp2.1\BunkerSoftServidor.dll
+C:\Users\SISTEMAS2\Desktop\Bunker\BunkerSoftServidor\obj\Debug\netcoreapp2.1\BunkerSoftServidor.pdb
